@@ -1,0 +1,32 @@
+_repo: The-Cameroons_64553
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calvert, Albert Frederick
+    aliases:
+    - Calvert, Albert F.
+    - Calvert, A. F. (Albert Frederick)
+    birthdate: 1872
+    deathdate: 1946
+    gutenberg_agent_id: '39139'
+    url: http://www.gutenberg.org/2009/agents/39139
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Frederick_Calvert
+description: ''
+gutenberg_issued: '2021-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64553'
+  lccn: a17001339
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Cameroon -- Pictorial works'
+- !lcsh 'Cameroon'
+- GITenberg
+tableOfContents: Discovery and exploration -- Plantation cultivation -- Native education
+  -- The Cameroon-Nigerian boundary.
+title: The Cameroons
+url: http://www.gutenberg.org/ebooks/64553
